@@ -22,6 +22,7 @@
                     if(arr[i]==arr1[j])
                     {
                         System.out.print(arr[i]+" ");
+                        arr1[j]=0;
                     }
                 }
             }
